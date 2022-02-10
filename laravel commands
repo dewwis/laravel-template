@@ -1,0 +1,8 @@
+composer create-project --prefer-dist laravel/laravel project
+//this is the command used to create a laravel project 
+//project is the name of my project
+cd project    //this is to navigate to the current directory
+php artisan serve  //this is to start the server and display the project on a live server. 
+//laravel seems to be very easy and pretty easier
+
+//you can now edit the code to your desired way.
